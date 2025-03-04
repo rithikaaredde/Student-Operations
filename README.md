@@ -42,13 +42,3 @@ Manages an ArrayList of `Student` objects. Contains methods for adding, displayi
 - `deleteStudent(long prn)`: Deletes a student from the list.
 
 ---
-
-## **Usage**
-1. Run `Main.java`.
-2. Choose an option from the displayed menu.
-3. Enter the required details as prompted.
-4. Perform operations such as adding, searching, updating, or deleting student records.
-
-This repository follows clean code principles, modular design, and proper documentation for maintainability and readability.
-
-
